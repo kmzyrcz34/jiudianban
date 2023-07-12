@@ -4,5 +4,32 @@
     "setting": {
         "compileHotReLoad": true
     },
-    "libVersion": "2.10.4"
+    "libVersion": "2.10.4",
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "",
+                    "pathName": "page/recycleopt/pages/recycleorders/recycleorders",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "page/market/market",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "page/recycleopt/pages/recycleorders/recycleorders",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                }
+            ]
+        }
+    }
 }
